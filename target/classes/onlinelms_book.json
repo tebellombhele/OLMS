@@ -1,0 +1,22 @@
+[
+  {
+    "bookid": 1,
+    "title": "Big Book of Knowlegde",
+    "author": "Martin Sung",
+    "publicationdate": "2021-11-09",
+    "quantity": 20,
+    "category": "General",
+    "issuedate": "0000-00-00",
+    "returndate": "0000-00-00"
+  },
+  {
+    "bookid": 2,
+    "title": "Walker's Role",
+    "author": "Jack Walker",
+    "publicationdate": "2013-11-08",
+    "quantity": 2,
+    "category": "General",
+    "issuedate": "0000-00-00",
+    "returndate": "0000-00-00"
+  }
+]

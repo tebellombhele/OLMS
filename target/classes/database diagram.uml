@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>b352ad86-2956-482f-b9fc-a461c940639f</OriginalElement>
+  <nodes>
+    <node x="187.0" y="0.0">b352ad86-2956-482f-b9fc-a461c940639f.TABLE:onlinelms.book</node>
+    <node x="0.0" y="403.0">b352ad86-2956-482f-b9fc-a461c940639f.TABLE:onlinelms.activitylog</node>
+    <node x="373.0" y="0.0">b352ad86-2956-482f-b9fc-a461c940639f.TABLE:onlinelms.admin</node>
+    <node x="11.5" y="237.0">b352ad86-2956-482f-b9fc-a461c940639f.TABLE:onlinelms.issue</node>
+    <node x="0.0" y="0.0">b352ad86-2956-482f-b9fc-a461c940639f.TABLE:onlinelms.student</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="b352ad86-2956-482f-b9fc-a461c940639f.TABLE:onlinelms.issue" target="b352ad86-2956-482f-b9fc-a461c940639f.TABLE:onlinelms.student" relationship="REFERENCES">
+      <point x="0.0" y="-60.5" />
+      <point x="0.0" y="93.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.7011494252873564" showDependencies="false" x="276.0" y="251.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
